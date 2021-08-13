@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contrato-facil/static/css/main.a617e044.chunk.css",
+    "main.js": "/contrato-facil/static/js/main.6ace0b73.chunk.js",
+    "main.js.map": "/contrato-facil/static/js/main.6ace0b73.chunk.js.map",
+    "runtime-main.js": "/contrato-facil/static/js/runtime-main.cf75ed3c.js",
+    "runtime-main.js.map": "/contrato-facil/static/js/runtime-main.cf75ed3c.js.map",
+    "static/js/2.a929d317.chunk.js": "/contrato-facil/static/js/2.a929d317.chunk.js",
+    "static/js/2.a929d317.chunk.js.map": "/contrato-facil/static/js/2.a929d317.chunk.js.map",
+    "static/js/3.21a7f779.chunk.js": "/contrato-facil/static/js/3.21a7f779.chunk.js",
+    "static/js/3.21a7f779.chunk.js.map": "/contrato-facil/static/js/3.21a7f779.chunk.js.map",
+    "index.html": "/contrato-facil/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/contrato-facil/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a929d317.chunk.js.LICENSE.txt": "/contrato-facil/static/js/2.a929d317.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/contrato-facil/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf75ed3c.js",
+    "static/js/2.a929d317.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6ace0b73.chunk.js"
+  ]
+}
